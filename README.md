@@ -1,56 +1,81 @@
-# Sarah's Portfolio 💎
+# Fasih's Resume 🚀
 
-Welcome to the repository for Sarah Abu Irmeileh's personal portfolio website. This portfolio showcases some of my skills, projects, experiences, and contact information. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
+Welcome to the professional profile of **Syed Fasih Zaidi** — a passionate full-stack developer and AI enthusiast with expertise in building intelligent applications for web, mobile, and real-time systems.
 
-Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netlify.app/)👈
+👉 [LinkedIn](https://linkedin.com/in/syed-fasih-zaidi) | [GitHub](https://github.com/syedfasihzaidi) | 📧 [fasihzaidi480@gmail.com](mailto:fasihzaidi480@gmail.com)
 
 
-## Table of Contents 📋
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Usage](#usage)
-- [Contact](#contact)
+## Education 🎓
 
-## Technologies Used ⚙️
-- HTML5: For structuring the content.
-- CSS3: For styling the content.
-- JavaScript: For interactivity and dynamic content.
-- Font Awesome: For icons.
-- Git: For version control.
+**FAST NUCES – Bachelor of Computer Science**  
+*Expected June 2025*  
+Awards:  
+- FAST Problem Solving Competition 🥇  
+- AI Hackathon (x2) 🧠  
+- ICPC Online Round 🧮  
 
-## Features 💡
-- Responsive Design: The portfolio is fully responsive and works well on various devices and screen sizes.
-- Multiple Color Themes: Users can switch between different color themes.
-- Sections:
-  - Home
-  - About
-  - Services
-  - Portfolio
-  - Contact
+---
 
-## Usage 👩🏻‍💻
-### Navigation 💻
-- Home: Introduction and brief overview.
-- About: Detailed information about Sarah's background.
-- Services: A list of services Sarah offers, such as back-end development and computer graphics design.
-- Portfolio: Display of Sarah's projects with links to their respective repositories.
-- Contact: Information on how to get in touch with Sarah, including email and social media links.
+## Work Experience 💼
 
-### Switching Color Themes 📌
-- Open the style switcher by clicking the gear icon.
-- Choose your preferred color theme.
+**KATco – iOS Developer Intern** *(Faisalabad, PK — Jun 24 to Aug 24)*  
+- Developed Audio & Video Calling App, Landmarks, Seismometer.  
+- Tools: Swift, SwiftUI.
 
-### Contact Form 📑
-- Fill out the form with your name, email, subject, and message.
-- Click "Send Message" to submit your inquiry.
+**Valtoro Solutions – AI Web Apps Intern** *(Remote — Jan 25 to Mar 25)*  
+- Built the **Vital Rental Car App** with automation features for rentals.
 
-## Contact 📨
+---
 
-For any inquiries, you can reach Sarah Abu Irmeileh through the following channels:
+## Projects 🛠️
 
-- Email: [sarahabuirmeileh@gmail.com](mailto:sarahabuirmeileh@gmail.com)
-- GitHub: [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh)
-- LinkedIn: [Sarah Abu Irmeileh](https://www.linkedin.com/in/sarahabuirmeileh)
-- Medium: [SarahAbuirmeileh](https://medium.com/@SarahAbuirmeileh)
+- **🧱 AI-Enabled Construction Management Platform**  
+  Role-based platform with real-time chat, collaboration, and order flow for homebuilders.  
+  *Tech: Firebase, MVC, Full Stack.*
 
-Feel free to fork this repository, raise issues, or submit pull requests. Thank you for visiting! 🔥
+- **🚗 Vital Rental – AI-Powered Fleet Management**  
+  Full-stack car rental automation with smart booking, tracking, damage assessment, and analytics.  
+  *Tech: React, Node.js, MongoDB, AI modules.*
+
+- **🗣️ Real-Time Speech Interface (Whisper + TTS)**  
+  Built bi-directional transcription and voice system optimized for accessibility.  
+  *Tech: Whisper, TTS APIs.*
+
+- **🧠 Clinical RAG System for Diagnostic Reasoning**  
+  Used MIMIC-IV dataset to build retrieval-augmented generator for smart diagnostics.  
+  *Tech: Python, Transformers.*
+
+- **📚 LLM Fine-Tuning for Domain-Specific Tasks**  
+  Customized BERT, GPT-2, and LLaMA with LoRA for text generation and classification.  
+  *Tech: PyTorch, HuggingFace, LoRA.*
+
+---
+
+## Coding Achievements 🏆
+
+- 🥇 **FAST Problem Solving Challenge (2024)** – 1st Place  
+- 🧠 **ICPC Pakistan Regionals (GIKI, 2024)** – 33rd Position  
+- 🤖 **ICPC Onsite Contest (2025)** – Participated  
+
+---
+
+## Technical Skills 🧰
+
+**Languages:** Python, C/C++, C#, JavaScript, Swift, Dart, SQL, Bash  
+**Frameworks:** Django, Flask, Node.js, Express.js, Flutter, SwiftUI  
+**Infra & Tools:** Docker, Kubernetes, AWS Lambda, Terraform, REST APIs, MongoDB, Git  
+**ML/AI:** TensorFlow, PyTorch  
+**IDEs:** VS Code, Android Studio, XCode, Eclipse  
+**Other:** LaTeX, Postman, Linux, Firebase
+
+---
+
+## Contact 📬
+
+Feel free to connect or collaborate:
+
+- 📧 Email: [fasihzaidi480@gmail.com](mailto:fasihzaidi480@gmail.com)  
+- 💼 LinkedIn: [syed-fasih-zaidi](https://linkedin.com/in/syed-fasih-zaidi)  
+- 💻 GitHub: [syedfasihzaidi](https://github.com/syedfasihzaidi)  
+
+Let's build something great together! 🔥
