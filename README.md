@@ -1,72 +1,45 @@
-# Fasih's Resume 🚀
+# Hazim's Resume 🚀
 
-Welcome to the professional profile of **Syed Fasih Zaidi** — a passionate full-stack developer and AI enthusiast with expertise in building intelligent applications for web, mobile, and real-time systems.
+Welcome to the professional profile of **Hazim Waqar** — a passionate AI Software Engineer and enthusiast with expertise in building intelligent dashboards,, chatbots llms for web, mobile, and real-time systems.
 
-👉 [LinkedIn](https://linkedin.com/in/syed-fasih-zaidi) | [GitHub](https://github.com/syedfasihzaidi) | 📧 [fasihzaidi480@gmail.com](mailto:fasihzaidi480@gmail.com)
+👉 [LinkedIn](https://www.linkedin.com/in/hazimwaqar/) | [GitHub](https://github.com/Hazimleets) | 📧 [hazimwaqar.contact@gmail.com](mailto:hazimwaqar.contact@gmail.com)
 
 
 ## Education 🎓
 
-**FAST NUCES – Bachelor of Computer Science**  
-*Expected June 2025*  
-Awards:  
-- FAST Problem Solving Competition 🥇  
-- AI Hackathon (x2) 🧠  
-- ICPC Online Round 🧮  
-
----
+**NTU – Bachelor of Artificial Intelligence**  
+*Expected June 2026*  
 
 ## Work Experience 💼
 
-**KATco – iOS Developer Intern** *(Faisalabad, PK — Jun 24 to Aug 24)*  
-- Developed Audio & Video Calling App, Landmarks, Seismometer.  
-- Tools: Swift, SwiftUI.
+**It Company Australia – Web designer and developer** *(Remote — April 22 to Dec 23)*  
+- Wordpress and Web Development  
+- Tools/Language: HTML,CSS,JS/React , Wordpress , Photoshop/Ilustrator.
 
-**Valtoro Solutions – AI Web Apps Intern** *(Remote — Jan 25 to Mar 25)*  
-- Built the **Vital Rental Car App** with automation features for rentals.
-
----
 
 ## Projects 🛠️
 
-- **🧱 AI-Enabled Construction Management Platform**  
-  Role-based platform with real-time chat, collaboration, and order flow for homebuilders.  
-  *Tech: Firebase, MVC, Full Stack.*
+- **📚 AI Reader: Semantic QA over Enterprise Documents**  
+  Leverages semantic search and LLM-based QA to provide precise, context-aware answers.  
+  *Tech:  Firebase (Auth/DB), Python backend (LangChain/FAISS), React frontend.*
 
-- **🚗 Vital Rental – AI-Powered Fleet Management**  
-  Full-stack car rental automation with smart booking, tracking, damage assessment, and analytics.  
-  *Tech: React, Node.js, MongoDB, AI modules.*
+- **🎨 MagicMorph: From Prompt or Photo to Art**  
+  AI-powered art generation. Instantly convert text prompts or uploaded photos into high-quality digital artwork.  
+  *Tech: React/Streamlit frontend, FlaskAPI backend, Stable Diffusion/LoRA fine-tuning*
 
-- **🗣️ Real-Time Speech Interface (Whisper + TTS)**  
-  Built bi-directional transcription and voice system optimized for accessibility.  
-  *Tech: Whisper, TTS APIs.*
-
-- **🧠 Clinical RAG System for Diagnostic Reasoning**  
-  Used MIMIC-IV dataset to build retrieval-augmented generator for smart diagnostics.  
-  *Tech: Python, Transformers.*
-
-- **📚 LLM Fine-Tuning for Domain-Specific Tasks**  
-  Customized BERT, GPT-2, and LLaMA with LoRA for text generation and classification.  
-  *Tech: PyTorch, HuggingFace, LoRA.*
+- **🗣️ Smart-Voice-and-Portfolio-Chat-Assistant**  
+  Seamlessly switch between real-time speech-to-text, voice commands, and portfolio management for a hands-free workflow. 
+  *Tech: Whisper, FlaskApi backend, Huggingface models.*
 
 ---
-
-## Coding Achievements 🏆
-
-- 🥇 **FAST Problem Solving Challenge (2024)** – 1st Place  
-- 🧠 **ICPC Pakistan Regionals (GIKI, 2024)** – 33rd Position  
-- 🤖 **ICPC Onsite Contest (2025)** – Participated  
-
----
-
 ## Technical Skills 🧰
 
-**Languages:** Python, C/C++, C#, JavaScript, Swift, Dart, SQL, Bash  
-**Frameworks:** Django, Flask, Node.js, Express.js, Flutter, SwiftUI  
-**Infra & Tools:** Docker, Kubernetes, AWS Lambda, Terraform, REST APIs, MongoDB, Git  
+**Languages:** Python, C/C++, JavaScript, HTML/CSS(TAILWIND) SQL, Bash  
+**Frameworks:** Django, Flask, 
+**Infra & Tools:** Docker, Render, AWS, REST APIs, MongoDB, Git  
 **ML/AI:** TensorFlow, PyTorch  
 **IDEs:** VS Code, Android Studio, XCode, Eclipse  
-**Other:** LaTeX, Postman, Linux, Firebase
+**Other:** Postman, Linux, Firebase
 
 ---
 
@@ -74,8 +47,8 @@ Awards:
 
 Feel free to connect or collaborate:
 
-- 📧 Email: [fasihzaidi480@gmail.com](mailto:fasihzaidi480@gmail.com)  
-- 💼 LinkedIn: [syed-fasih-zaidi](https://linkedin.com/in/syed-fasih-zaidi)  
-- 💻 GitHub: [syedfasihzaidi](https://github.com/syedfasihzaidi)  
+- 📧 Email: [hazimwaqar.contact@gmail.com](mailto:hazimwaqar.contact@gmail.com)  
+- 💼 LinkedIn: [hazim-waqar](https://www.linkedin.com/in/hazimwaqar/)  
+- 💻 GitHub: [hazim-waqar](https://github.com/Hazimleets)  
 
 Let's build something great together! 🔥
